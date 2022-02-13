@@ -1,12 +1,8 @@
-! Title: ➗ Distraction removal CN Site
+! Title: ➗ Distraction site DNS ban
 ! Version: 13February2022v1
 ! Expires: 1 day
 ! Description: Remove Video and articile Recommendation
 ! Homepage: https://github.com/fzheng123/Focus-Filters
 ! Homepage for the repository: https://github.com/fzheng123/Focus-Filters
 
-bilibili.com##.recommend-list
-bilibili.com##.ad-report
-bilibili.com##.activity-m
-bilibili.com##.pop-live
-bilibili.com##.trending
+||huya.com^
