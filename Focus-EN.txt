@@ -1,4 +1,4 @@
-! Title: ➗ Distraction removal CN version
+! Title: ➗ Distraction removal EN Site
 ! Version: 13February2022v1
 ! Expires: 1 day
 ! Description: Remove Video and articile Recommendation
