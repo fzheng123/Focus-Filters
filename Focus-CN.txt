@@ -1,4 +1,4 @@
-! Title: ➗ Distraction removal CN Site
+! Title: Distraction removal CN Site
 ! Version: 02212022
 ! Expires: 1 day
 ! Description: Remove Video and articile Recommendation
