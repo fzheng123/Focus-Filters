@@ -1,8 +1,10 @@
 ! Title: ➗ Distraction site DNS ban
-! Version: 13February2022v1
+! Version: 02212022
 ! Expires: 1 day
 ! Description: Remove Video and articile Recommendation
 ! Homepage: https://github.com/fzheng123/Focus-Filters
 ! Homepage for the repository: https://github.com/fzheng123/Focus-Filters
 
 ||huya.com^
+||douyu.com^
+||hupu.com^
