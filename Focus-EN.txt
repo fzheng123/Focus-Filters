@@ -1,5 +1,5 @@
 ! Title: Distraction removal EN Site
-! Version: 02212022
+! Version: 02222022
 ! Expires: 1 day
 ! Description: Remove Video and articile Recommendation
 ! Homepage: https://github.com/fzheng123/Focus-Filters
@@ -8,3 +8,15 @@
 youtube.com###comments
 youtube.com###related
 youtube.com###chat
+
+fidelity.com###vpnews00marketchart00NCLCHPLITE
+
+us.etrade.com##div.page-content:nth-child(21) > div.row-fluid.home-page > div.span12 > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.ticker.parbase.aem-GridColumn.aem-GridColumn--default--12:nth-child(3) > div.row-navy.home-ticker:first-child
+us.etrade.com##div.page-content:nth-child(21) > div.row-fluid.home-page > div.span12 > div.aem-Grid.aem-Grid--12.aem-Grid--default--12 > div.componentContainer.parbase.aem-GridColumn.aem-GridColumn--default--12:nth-child(4) > section.Other > div.container
+us.etrade.com###etContent > div:last-child > div.ng-scope:nth-child(9) > section.complete-view-content.ng-scope.ng-isolate-scope:nth-child(2) > div.container > div.row > div.col-xs-12.col-sm-7.col-md-8.col-print-12:first-child > div.row.ng-scope:last-child
+us.etrade.com###new-nav-layout > div.globalnav:nth-child(2) > div.tray:nth-child(2)
+
+news.google.com##c-wiz.zQTmif.SSPGKf.ZYcfVd:nth-child(6) > div.T4LgNb:first-child > div.FVeGwb.CVnAc.bWfURe:last-child
+google.com##ul[role='listbox']
+google.com##g-card
+google.com##g-scrolling-carousel
