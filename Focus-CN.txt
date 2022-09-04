@@ -1,5 +1,5 @@
 ! Title: Distraction removal CN Site
-! Version: 07042022
+! Version: 09032022
 ! Expires: 1 day
 ! Description: Remove Video and articile Recommendation
 ! Homepage: https://github.com/fzheng123/Focus-Filters
@@ -8,6 +8,7 @@
 bilibili.com##.recommend-list
 bilibili.com###reco_list
 bilibili.com##.recommend-container__2-line
+bilibili.com##.recommended-container
 bilibili.com##.eva-extension-area
 bilibili.com##.live-card-list   
 bilibili.com##.ad-report
